@@ -1,3 +1,3 @@
-module github.com/Gabrn/test-go-module-upload v1.0.0
+module github.com/Gabrn/test-go-module-upload
 
 go 1.19
